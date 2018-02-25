@@ -1,20 +1,20 @@
-.homeView{
-	h1, button{
+.homeView {
+	h1,
+	button {
 		font-family: 'Jura';
 	}
 	h1 {
 		font-size: 7em;
 		color: white;
 	}
-	button{
+	button {
 		font-size: 26px;
 	}
 	.scroll-content {
-		background: linear-gradient(145deg, #6C6C6C,#95A2AB,#206AA7, #00508D, #002F57, #442144);
+		background: linear-gradient(145deg, #6C6C6C, #95A2AB, #206AA7, #00508D, #002F57, #442144);
 		background-size: 800% 800%;
 		animation: background 26s ease infinite;
-		
-		.scroll{
+		.scroll {
 			height: 100%;
 			.row-center {
 				height: 100%;
@@ -22,8 +22,41 @@
 		}
 	}
 }
-@keyframes background { 
-	0%{background-position:1% 0%}
-    50%{background-position:99% 100%}
-    100%{background-position:1% 0%}
+
+@keyframes background {
+	0% {
+		background-position: 1% 0%
+	}
+	50% {
+		background-position: 99% 100%
+	}
+	100% {
+		background-position: 1% 0%
+	}
+}
+
+ion-content {
+	top: 35px;
+}
+
+.loginWrapper {
+	position: relative;
+	input {
+		width: 100%;
+		margin: 10px 0;
+		border-radius: 5px;
+		padding: 10px;
+		background: transparent;
+		border: 1px solid #ddd;
+		color: #ddd;
+	}
+	span {
+		position: absolute;
+		top: 0;
+		right: 10px;
+		color: #ddd;
+		font-size: 26px;
+		padding: 9px;
+		padding-top: 3px;
+	}
 }

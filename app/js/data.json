@@ -1,0 +1,1565 @@
+{
+	"data": {
+		"max_change_percent": 1,
+		"is_with_edit": false,
+		"point": "5901d0de5d9dcb0000000000",
+		"title": "2",
+		"agent_all_in_one": false,
+		"agent_calc": "%",
+		"currency": ["UZB"],
+		"data": [{
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1580,
+				"currency": "UZB"
+			}],
+			"product": "591c2cf3a27883be0d7ecffd"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 4885,
+				"currency": "UZB"
+			}],
+			"product": "591c2ce3a27883be0d7ecffb"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 4850,
+				"currency": "UZB"
+			}],
+			"product": "591c2cd2a27883be0d7ecff9"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5455,
+				"currency": "UZB"
+			}],
+			"product": "591c2cbfa27883be0d7ecff7"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5455,
+				"currency": "UZB"
+			}],
+			"product": "591c2caaa27883be0d7ecff5"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5455,
+				"currency": "UZB"
+			}],
+			"product": "591c2c89a27883be0d7ecff3"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5685,
+				"currency": "UZB"
+			}],
+			"product": "591c2c6da27883be0d7ecff1"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 8850,
+				"currency": "UZB"
+			}],
+			"product": "591c2c5aa27883be0d7ecfef"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 8060,
+				"currency": "UZB"
+			}],
+			"product": "591c2c38a27883be0d7ecfed"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1105,
+				"currency": "UZB"
+			}],
+			"product": "591c2c23a27883be0d7ecfeb"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1260,
+				"currency": "UZB"
+			}],
+			"product": "591c2c0fa27883be0d7ecfe9"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 925,
+				"currency": "UZB"
+			}],
+			"product": "591c2bfda27883be0d7ecfe7"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 845,
+				"currency": "UZB"
+			}],
+			"product": "591c2bd8a27883be0d7ecfe3"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 955,
+				"currency": "UZB"
+			}],
+			"product": "591c2beba27883be0d7ecfe5"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 720,
+				"currency": "UZB"
+			}],
+			"product": "591c2ba9fca905710ca380b7"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 720,
+				"currency": "UZB"
+			}],
+			"product": "591c2b93fca905710ca380b5"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [],
+			"product": "591c2b7dfca905710ca380b3"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 90,
+				"currency": "UZB"
+			}],
+			"product": "591c2b63fca905710ca380b1"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [],
+			"product": "591c2b4bfca905710ca380af"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 12435,
+				"currency": "UZB"
+			}],
+			"product": "591c2b3afca905710ca380ad"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 28365,
+				"currency": "UZB"
+			}],
+			"product": "591c2b2bfca905710ca380ab"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 2555,
+				"currency": "UZB"
+			}],
+			"product": "591c2b19fca905710ca380a9"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 980,
+				"currency": "UZB"
+			}],
+			"product": "591c2b05fca905710ca380a7"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 815,
+				"currency": "UZB"
+			}],
+			"product": "591c2aeffca905710ca380a5"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1145,
+				"currency": "UZB"
+			}],
+			"product": "591c2ad9fca905710ca380a3"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1050,
+				"currency": "UZB"
+			}],
+			"product": "591c2ac8fca905710ca380a1"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1305,
+				"currency": "UZB"
+			}],
+			"product": "591c2ab8fca905710ca3809f"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 2120,
+				"currency": "UZB"
+			}],
+			"product": "591c2aa8fca905710ca3809d"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [],
+			"product": "591c2a98fca905710ca3809b"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 9055,
+				"currency": "UZB"
+			}],
+			"product": "591c2a84fca905710ca38099"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 2035,
+				"currency": "UZB"
+			}],
+			"product": "591c2a70fca905710ca38097"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 3285,
+				"currency": "UZB"
+			}],
+			"product": "591c2a45fca905710ca38095"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 2585,
+				"currency": "UZB"
+			}],
+			"product": "591c2a32fca905710ca38093"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 3035,
+				"currency": "UZB"
+			}],
+			"product": "591c2a1efca905710ca38091"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [],
+			"product": "591c2a0bfca905710ca3808f"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 485,
+				"currency": "UZB"
+			}],
+			"product": "591c29fcfca905710ca3808d"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 180,
+				"currency": "UZB"
+			}],
+			"product": "591c29e6fca905710ca3808b"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1,
+				"currency": "UZB"
+			}],
+			"product": "591c29d4fca905710ca38089"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 6365,
+				"currency": "UZB"
+			}],
+			"product": "591c28fefca905710ca38087"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 6900,
+				"currency": "UZB"
+			}],
+			"product": "591c28eafca905710ca38085"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 6500,
+				"currency": "UZB"
+			}],
+			"product": "591c28d7fca905710ca38083"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [],
+			"product": "591c28c1fca905710ca38081"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5910,
+				"currency": "UZB"
+			}],
+			"product": "591c28adfca905710ca3807f"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 7785,
+				"currency": "UZB"
+			}],
+			"product": "591c289afca905710ca3807d"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 9680,
+				"currency": "UZB"
+			}],
+			"product": "591c2884fca905710ca3807b"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 9955,
+				"currency": "UZB"
+			}],
+			"product": "591c286ffca905710ca38079"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 10360,
+				"currency": "UZB"
+			}],
+			"product": "591c285bfca905710ca38077"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 6645,
+				"currency": "UZB"
+			}],
+			"product": "591c2849fca905710ca38075"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 10070,
+				"currency": "UZB"
+			}],
+			"product": "591c2834fca905710ca38073"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 695,
+				"currency": "UZB"
+			}],
+			"product": "591c281cfca905710ca38071"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 545,
+				"currency": "UZB"
+			}],
+			"product": "591c2804fca905710ca3806f"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 725,
+				"currency": "UZB"
+			}],
+			"product": "591c27e9fca905710ca3806d"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1415,
+				"currency": "UZB"
+			}],
+			"product": "591c27d2fca905710ca3806b"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 795,
+				"currency": "UZB"
+			}],
+			"product": "591c27bbfca905710ca38069"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1555,
+				"currency": "UZB"
+			}],
+			"product": "591c27a7fca905710ca38067"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1205,
+				"currency": "UZB"
+			}],
+			"product": "591c2793fca905710ca38065"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1115,
+				"currency": "UZB"
+			}],
+			"product": "591c277dfca905710ca38063"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1290,
+				"currency": "UZB"
+			}],
+			"product": "591c2769fca905710ca38061"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 3110,
+				"currency": "UZB"
+			}],
+			"product": "591c2754fca905710ca3805f"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1545,
+				"currency": "UZB"
+			}],
+			"product": "591c273dfca905710ca3805d"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1450,
+				"currency": "UZB"
+			}],
+			"product": "591c2727fca905710ca3805b"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1295,
+				"currency": "UZB"
+			}],
+			"product": "591c2710fca905710ca38059"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [],
+			"product": "591c26f9fca905710ca38057"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 3815,
+				"currency": "UZB"
+			}],
+			"product": "591c26d0fca905710ca38055"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 675,
+				"currency": "UZB"
+			}],
+			"product": "591c26b9fca905710ca38053"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 4965,
+				"currency": "UZB"
+			}],
+			"product": "591c2692fca905710ca38051"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 4420,
+				"currency": "UZB"
+			}],
+			"product": "591c2677fca905710ca3804f"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 4065,
+				"currency": "UZB"
+			}],
+			"product": "591c25c005145a400e02bc81"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5265,
+				"currency": "UZB"
+			}],
+			"product": "591c259b05145a400e02bc7f"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5725,
+				"currency": "UZB"
+			}],
+			"product": "591c258705145a400e02bc7d"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5035,
+				"currency": "UZB"
+			}],
+			"product": "591c256c05145a400e02bc7b"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 2115,
+				"currency": "UZB"
+			}],
+			"product": "591c255405145a400e02bc79"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5715,
+				"currency": "UZB"
+			}],
+			"product": "591c253e05145a400e02bc77"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 3065,
+				"currency": "UZB"
+			}],
+			"product": "591c252605145a400e02bc75"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5205,
+				"currency": "UZB"
+			}],
+			"product": "591c250a05145a400e02bc73"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 3470,
+				"currency": "UZB"
+			}],
+			"product": "591c24e805145a400e02bc71"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5220,
+				"currency": "UZB"
+			}],
+			"product": "591c24c905145a400e02bc6f"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 2760,
+				"currency": "UZB"
+			}],
+			"product": "591c24af05145a400e02bc6d"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 3065,
+				"currency": "UZB"
+			}],
+			"product": "591c247b05145a400e02bc69"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 3125,
+				"currency": "UZB"
+			}],
+			"product": "591c245c05145a400e02bc67"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 2245,
+				"currency": "UZB"
+			}],
+			"product": "591c244105145a400e02bc65"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 955,
+				"currency": "UZB"
+			}],
+			"product": "59b8db310c05c50c6ad3ac06"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 14800,
+				"currency": "UZB"
+			}],
+			"product": "59a549acc59982b628df4c24"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5695,
+				"currency": "UZB"
+			}],
+			"product": "59a54640c59982b628df4c1f"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [],
+			"product": "59a55efdc59982b628df4c26"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [],
+			"product": "59a55f3cc59982b628df4c28"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 7045,
+				"currency": "UZB"
+			}],
+			"product": "59b7b4680c05c50c6ad3aae9"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 4595,
+				"currency": "UZB"
+			}],
+			"product": "59ba1eb50c05c50c6ad3ad69"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5105,
+				"currency": "UZB"
+			}],
+			"product": "59cb8c6ed22c8b8a20f08142"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 5960,
+				"currency": "UZB"
+			}],
+			"product": "59cb9024d22c8b8a20f0815d"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 6665,
+				"currency": "UZB"
+			}],
+			"product": "59cb9a22d22c8b8a20f081ad"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 2750,
+				"currency": "UZB"
+			}],
+			"product": "59f7f66f0962544246821919"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 8060,
+				"currency": "UZB"
+			}],
+			"product": "59f946bd0962544246821aed"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 1800,
+				"currency": "UZB"
+			}],
+			"product": "5a055067dfec557ad6839ab9"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 4180,
+				"currency": "UZB"
+			}],
+			"product": "5a1d414c8bbd83029b3465c4"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [],
+			"product": "5a59c520223f086a0a78bd1d"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [],
+			"product": "5a631106223f086a0a78ce72"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 2400,
+				"currency": "UZB"
+			}],
+			"product": "5a71bb6fa7a21e029cc4c6d7"
+		}, {
+			"agent_rates": [{
+				"count": 2.5,
+				"category": "59343dd9755c4300060f85d3"
+			}, {
+				"count": 2,
+				"category": "59343de5755c4300060f85d4"
+			}, {
+				"count": 2,
+				"category": "59343df2755c4300060f85d5"
+			}],
+			"prices": [{
+				"price": 95,
+				"currency": "UZB"
+			}],
+			"product": "5a729b92a7a21e029cc4c6e8"
+		}],
+		"_id": "598c5d984494655979cdf719"
+	},
+	"status": "success"
+}

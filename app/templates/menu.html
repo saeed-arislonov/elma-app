@@ -15,25 +15,25 @@
 		<ion-nav-view name="viewContent" animation="slide-left-right"></ion-nav-view>
 	</ion-side-menu-content>
 	<ion-side-menu side="left" class="menu">
-		<ion-header-bar ui-sref="app.gallery" menu-close nav-direction="enter" nav-clear>
-			<ion-item class="item item-thumbnail-left">
-				<img src="img/benderface.png" alt="Fry" class="animated">
+		<ion-header-bar ui-sref="app.gallery" menu-close nav-direction="enter" nav-clear style="background-image:url(img/elma-brand.png)">
+			<!--<ion-item class="item item-thumbnail-left">
+				<img src="img/elma-brand.png" alt="Fry" class="animated">
 				<h2>Bender</h2>
 				<p>By Nicholls</p>
-			</ion-item>
+			</ion-item>-->
 		</ion-header-bar>
 		<ion-content class="has-header">
 			<ion-list>
-				<ion-item ng-repeat="item in items" menu-close nav-direction="enter" ui-sref="app.item({ icon: item.icon, color: item.color })" class="item item-icon-right" ui-sref-active="active">
-                    {{item.title}}
+				<ion-item menu-close nav-direction="enter" class="item item-icon-right" ui-sref-active="active">
+                    Karta
                     <i class="icon ion-chevron-right"></i>
 				</ion-item>
 			</ion-list>
 		</ion-content>
 		<ion-footer-bar class="bar-light">
 			<div class="button-bar">
-				<button class="button button-icon icon ion-home" nav-clear menu-close nav-direction="exit" ui-sref="home">Home</button>
-                <button class="button button-icon icon ion-log-out" on-tap="exitApp()">Exit</button>
+				<button class="button button-icon icon ion-home" nav-clear menu-close nav-direction="exit" ui-sref="app.gallery">Home</button>
+                <button class="button button-icon icon ion-log-out" ng-click="signOut()">Exit</button>
 			</div>
 		</ion-footer-bar>
 	</ion-side-menu>

@@ -1,5 +1,144 @@
-.itemView{
-    .animated {
-        animation-delay: 0.2s;
-    }
+.itemView {
+	.animated {
+		animation-delay: 0.2s;
+	}
+}
+
+.outOfStock {
+	color: red;
+    text-decoration: line-through;
+}
+
+.all-products {
+	.switch-button {
+		text-align: right;
+	}
+	.item {
+		padding: 7px;
+		font-size: 16px;
+		position: relatives;
+		border-color: #444 !important;
+		border-radius: 5px;
+		//margin: 3px;
+	}
+	
+	.actual-products {
+		margin: 5px 0;
+	}
+	.item_name {
+		white-space: pre-line;
+	}
+	.quantity-input {
+		.inputs {
+			width: 35%;
+			display: inline-block;
+		} 
+	}
+	.products-list {
+		input {
+			border: 1px solid #ddd;
+			font-size: 16px;
+			height: 25px;
+			margin: 5px;
+			padding: 5px;
+			//float: left;
+			width: 60%;
+			border-radius: 5px;
+			display: inline-block;
+		}
+		.price-div {
+			margin: 3px 0;
+			padding: 2px 0;
+			display: flex;
+			border-top: 1px solid #ddd;
+			div {
+				flex-grow: 1;
+			}
+			.item-price {
+				font-size: 18px;
+				font-weight: bold;
+				text-align: right;
+				position: relative;
+				span {
+					position: absolute;
+					left: 5px;
+				}
+			}
+		}
+	}
+	.list .item.item-accordion {
+		line-height: 38px;
+		padding-top: 0;
+		padding-bottom: 0;
+		transition: 0.8s all linear;
+	}
+	.list .item.item-accordion.ng-hide {
+		line-height: 0px;
+	}
+	.list .item.item-accordion.ng-hide-add,
+	.list .item.item-accordion.ng-hide-remove {
+		display: block !important;
+	}
+	.icon {
+		position: absolute;
+		right: 10px;
+	}
+	.half-size {
+		float: left;
+		width: 50%;
+		margin: 5px;
+	}
+	.full-size {
+		width: 100%;
+		margin: 10px 0;
+	}
+	.input_els {
+		border: 1px solid #ddd;
+		border-radius: 5px;
+		background: transparent;
+		padding: 5px;
+	}
+	.top-div {
+		display: flex;
+		
+		.half-size {
+			float: none;
+		}
+		input {
+			margin-left: 0;
+		}
+		select {
+			margin-right: 0;
+		}
+	}
+	.order-inputs {
+		select {
+			height: 34px;
+		}
+	}
+	.button {
+		margin: 10px 0;
+	}
+}
+
+.fade {
+    transition: all linear 500ms;
+    opacity: 1;
+}
+
+.fade.ng-hide {
+    opacity: 0;
+}
+
+.new-clients {
+	.item {
+		border: none
+	}
+	input {
+		margin-top: 5px;
+		border: 1px solid #ddd;
+		border-radius: 5px;
+		width: 100%;
+		padding: 5px;
+	}
 }

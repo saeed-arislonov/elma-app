@@ -1,5 +1,65 @@
-<ion-view class="itemView" view-title="{{item.title}}" ng-style="{ 'background-color': item.color }">
-  <ion-content class="center-content animated slideInUp">
-    <i class="icon {{item.icon}}" style="font-size:22em;color:white;"></i>
-  </ion-content>
+<ion-view class="itemView">
+	<ion-content class="animated slideInUp all-products">
+		<!--<ion-list ng-repeat="product in products">{{product.title}}</ion-list>
+-->
+		<div class="order-inputs">
+			<form name="clientInfo">
+				<h3>Информация о клиенте</h3>
+				<div class="full-size top-div">
+					<input type="text" readonly placeholder="Дата" class="half-size input_els" ng-model="order.date" />
+					<input type="text" ng-model="order.clientPhone" class="input_els half-size" class="" ui-mask="(+\9\9\899) 999-99-99" ui-mask-placeholder-1="" ui-mask-placeholder-char-1="X" required/>
+				</div>
+				<div class="full-size">
+					<label for="agent-name">Агент</label>
+					<select id="agent-name" class="full-size input_els" ng-model="order.agent" ng-options="agent as agent.title for agent in agents" ng-change="filterClients(order.agent)" required>
+					</select>
+				</div>
+
+				<div class="full-size">
+					<label for="buyer-name">Покупатель</label>
+					<select id="buyer-name" class="full-size input_els" ng-model="order.client" ng-options="client as client.title for client in clientById" required>
+				</select>
+				</div>
+				<div class="full-size">
+					<label for="byPrice">По прайсу</label>
+					<select id="byPrice" class="full-size input_els" ng-model="order.priceList" ng-options="pr as pr.title for pr in pricelist" ng-change="updatePriceList(order.priceList)" required>
+				</select>
+				</div>
+				<div class="switch-button">
+					<button class="button button-dark" ng-click="toggleProducts()" ng-disabled="clientInfo.$invalid">Перейти к список товаров</button>
+				</div>
+			</form>
+		</div>
+
+		<div class="products-list" style="display:none">
+			<!---->
+			<div class="switch-button">
+				<button class="button button-stable" ng-click="toggleProducts()">Назад в инфо клиента</button>
+			</div>
+			<h4>{{"Общая сумма : " + totalOrderPrice}}</h4>
+			<div ng-repeat="product in products" class="actual-products">
+				<ion-item class="item-stable" ng-click="toggleGroup(product)" ng-class="{active: isGroupShown(product)}">
+					{{ product.title}} <i class="icon" ng-class="isGroupShown(product) ? 'ion-minus' : 'ion-plus'"></i>
+				</ion-item>
+				<ion-item class="item-accordion" ng-repeat="item in product.items" ng-show="isGroupShown(product)">
+					<div ng-class="item.price == null || item.price == indefined || item.price == '' ? 'outOfStock' : ''" class="item_name">{{item.title}}</div>
+					<div class="price-div" ng-hide="item.price == null || item.price == indefined || item.price == ''">
+						<div>Цена (перечисления) </div>
+						<div class="item-price">{{numberWithSpaces(item.price[0].price)}} </div>
+					</div>
+					<div ng-hide="item.price == null || item.price == indefined || item.price == ''" class="quantity-input">
+						<div class="inputs"> <label for="shtuk">штук</label> <input type="number" id="shtuk" placeholder="штук" ng-model="item.byUnit" ng-change="item_subtotal(item.byBox, item.in_box, item.byUnit, item.price[0].price, item.total, item); sum()"/></div>
+						<div class="inputs"><label>{{'x'+item.in_box}}</label><input type="number" ng-model="item.byBox" placeholder="{{'x'+item.in_box}}" ng-change="item_subtotal(item.byBox, item.in_box, item.byUnit, item.price[0].price, item.total, item); sum()"/></div>
+						<div class="price-div" ng-hide="item.price == null || item.price == indefined || item.price == ''">
+							<div class="item-price" ng-hide="item.total == 0"><span>Итого :</span> {{item_subtotal(item.byBox, item.in_box, item.byUnit, item.price[0].price, item.total, item)}} </div>
+						</div>
+					</div>
+				</ion-item>
+			</div>
+			<div style="text-align:right">
+				<button class="button button-dark" ng-click="showUsers()">Перейти к оформлению</button>
+			</div>
+		</div>
+
+	</ion-content>
 </ion-view>

@@ -1,15 +1,25 @@
-(function() {
-'use strict';
+(function () {
+	'use strict';
 
-    angular
-        .module('App')
-        .controller('GalleryController', GalleryController);
+	angular
+		.module('App')
+		.controller('GalleryController', GalleryController);
 
-    GalleryController.$inject = ['$scope', '$state'];
-    function GalleryController($scope, $state) {
-        
-        $scope.openItem = function(item){
-            $state.go('app.item', { title: item.title, icon: item.icon, color: item.color });
-        };
-    }
+	GalleryController.$inject = ['$scope', '$state', '$http'];
+
+	function GalleryController($scope, $state, $http) {
+
+		
+		
+		if (localStorage.getItem('userSession') == null) {
+			$state.go('home');
+		}
+
+		$scope.openItem = function (item) {
+			$state.go('app.item');
+		};
+		$scope.addNewClient = function (item) {
+			$state.go('app.new-client');
+		};
+	}
 })();

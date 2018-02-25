@@ -12,6 +12,10 @@
             padding-top: 12px;
         }
     }
+	
+	.bounceInUp {
+		font-size: 18px;
+	}
     
     .item.ng-enter-stagger {
         animation-delay:200ms;
@@ -24,7 +28,17 @@
 		}
 	}
     
-    .bold{
+    .bold {
         font-weight: bold;
     }
+	
+	ion-item {
+		border: 1px solid #ddd;
+		color: #ddd;
+		margin: 15px auto;
+	}
+	
+	.button-outline {
+		font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	}
 }

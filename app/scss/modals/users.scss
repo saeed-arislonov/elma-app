@@ -1,4 +1,7 @@
 .usersModal{
+	* {
+		font-family: 'Jura'
+	}
 	.title, .item{
 		font-family: 'Jura';
 	}
@@ -8,7 +11,12 @@
 	}
 	
 	.item{
-		font-size: 20px;
+		font-size: 16px;
+		padding: 8px;
+	}
+	
+	.item-icon-left {
+		padding-left:15px;
 	}
 	
     .animate-item.ng-enter {
@@ -18,5 +26,13 @@
 	.animate-item.ng-enter-stagger {
 		animation-delay:200ms;		
 		animation-duration:0;
+	}
+	
+	.ordered-products {
+		
+	}
+	.place-order {
+		float:right;
+		margin-right: 5px;
 	}
 }

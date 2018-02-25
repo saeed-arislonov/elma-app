@@ -1,0 +1,63 @@
+<ion-view class="itemView">
+	<ion-content class="animated slideInUp all-products">
+		<!--<ion-list ng-repeat="product in products">{{product.title}}</ion-list>
+-->
+		<div class="order-inputs new-clients">
+			<form name="newClientForm">
+				<h4>Информация о клиенте</h4>
+
+				<div class="list">
+					<div class="full-size">
+						<label class="item item-input">Наименование организации</label>
+    					<input type="text" ng-model="newClient.title" placeholder="Наименование организации">
+					</div>
+					
+					<div class="full-size">
+						<label class="item item-input item-floating-label">Короткое название</label>
+    					<input type="text" ng-model="newClient.title_short" placeholder="Короткое название">
+					</div>
+					<div class="full-size">
+						<label class="item item-input item-floating-label">Контактное лицо</label>
+    					<input type="text" ng-model="newClient.contact_name" placeholder="Контактное лицо">
+					</div>
+					
+					<div class="full-size">
+						<label for="agent-name">Агент</label>
+						<select id="agent-name" class="full-size input_els" ng-model="newClient.agent" ng-options="agent._id as agent.title for agent in agents" required>
+					</select>
+					</div>
+					<div class="full-size">
+						<label for="region-name">Регион</label>
+						<select id="region-name" class="full-size input_els" ng-model="newClient.region" ng-options="region._id as region.title for region in regions" required>
+					</select>
+					</div>
+					<input type="text" ng-model="order.clientPhone" class="input_els half-size" class="" ui-mask="(+\9\9\899) 999-99-99" ui-mask-placeholder-1="" ui-mask-placeholder-char-1="X" required/>
+				</div>
+				
+				<button class="button button-dark" ng-click="placeOrder()">Сохранить</button>
+				
+				<pre>{{newClient | json}} </pre>
+
+				<!--<div class="full-size top-div">
+					
+				</div>
+				
+
+				<div class="full-size">
+					<label for="buyer-name">Покупатель</label>
+					<select id="buyer-name" class="full-size input_els" ng-model="order.client" ng-options="client as client.title for client in clientById" required>
+				</select>
+				</div>
+				<div class="full-size">
+					<label for="byPrice">По прайсу</label>
+					<select id="byPrice" class="full-size input_els" ng-model="order.priceList" ng-options="pr as pr.title for pr in pricelist" ng-change="updatePriceList(order.priceList)" required>
+				</select>
+				</div>
+				<div class="switch-button">
+					<button class="button button-dark" ng-click="toggleProducts()" ng-disabled="clientInfo.$invalid">Перейти к assasaсписок товаров</button>
+				</div>-->
+			</form>
+		</div>
+
+	</ion-content>
+</ion-view>
